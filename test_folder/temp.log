@@ -1,0 +1,21 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.3)  8 NOV 2020 13:35
+entering extended mode
+**"E:/Python Projects/CVMaker/test_folder/temp.tex"
+("E:/Python Projects/CVMaker/test_folder/temp.tex"
+LaTeX2e <2018-04-01> patch level 5
+)
+! Emergency stop.
+<*> ...thon Projects/CVMaker/test_folder/temp.tex"
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 8 strings out of 492947
+ 229 string characters out of 3134809
+ 56074 words of memory out of 3000000
+ 3979 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 5i,0n,1p,1b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

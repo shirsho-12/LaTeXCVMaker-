@@ -1,0 +1,31 @@
+\documentclass[10.8pt,a4paper]{awesome-cv}%
+\usepackage[T1]{fontenc}%
+\usepackage[utf8]{inputenc}%
+\usepackage{lmodern}%
+\usepackage{textcomp}%
+\usepackage{lastpage}%
+\usepackage{fontspec}%
+\usepackage{hyperref}%
+%
+\date{\today}%
+\maketitle%
+\fontdir[\fonts]%
+\newcommand*{\sectiondir}{resume/}%
+\colorlet{awesome}{awesome-skyblue}%
+\name{\hspace{{-}1mm}Shirshajit}{Sen Gupta}%
+\address{Address \#\#\$\$@@ .1!}%
+\mobile{11223344}%
+\email{shirshajit@gmail.com}%
+\linkedin{linkedin.com/in/shirshajit}%
+\makecvfooter{}{Shirshajit Sen Gupta~~~·~~~Curriculum Vitae}{\thepage}%
+%
+\begin{document}%
+\normalsize%
+\makecvheader%
+\hspace{13.8cm}%
+\import{\sectiondir}{Skills.tex}%
+\import{\sectiondir}{Experience.tex}%
+\import{\sectiondir}{Education.tex}%
+\import{\sectiondir}{Honours.tex}%
+\import{\sectiondir}{ECA.tex}%
+\end{document}
